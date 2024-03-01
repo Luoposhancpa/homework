@@ -1,0 +1,7 @@
+D:\c\h\homework\assignment1\Computed\Computed\bin\Debug\Computed.exe.config
+D:\c\h\homework\assignment1\Computed\Computed\bin\Debug\Computed.exe
+D:\c\h\homework\assignment1\Computed\Computed\bin\Debug\Computed.pdb
+D:\c\h\homework\assignment1\Computed\Computed\obj\Debug\Computed.csproj.AssemblyReference.cache
+D:\c\h\homework\assignment1\Computed\Computed\obj\Debug\Computed.csproj.CoreCompileInputs.cache
+D:\c\h\homework\assignment1\Computed\Computed\obj\Debug\Computed.exe
+D:\c\h\homework\assignment1\Computed\Computed\obj\Debug\Computed.pdb
