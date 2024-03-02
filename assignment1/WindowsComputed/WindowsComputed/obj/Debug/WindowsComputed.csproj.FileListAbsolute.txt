@@ -1,0 +1,12 @@
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\bin\Debug\WindowsComputed.exe.config
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\bin\Debug\WindowsComputed.exe
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\bin\Debug\WindowsComputed.pdb
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\bin\Debug\stdole.dll
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.csproj.AssemblyReference.cache
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.Computed.resources
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.Properties.Resources.resources
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.csproj.GenerateResource.cache
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.csproj.CoreCompileInputs.cache
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.csproj.CopyComplete
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.exe
+D:\c\h\homework\assignment1\WindowsComputed\WindowsComputed\obj\Debug\WindowsComputed.pdb
