@@ -22,6 +22,7 @@ namespace WindowsComputed
                 res.Text = "";
             else
             {
+                //防止用户非法操作，将异常catch统一在计算结果处显示出错
                 try
                 {
                     Double num11 = Double.Parse(num1.Text);
