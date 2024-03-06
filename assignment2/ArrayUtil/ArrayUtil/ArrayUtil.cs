@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ArrayUtil
 {
-    internal class Program
+    internal class ArrayUtil
     {
 
         public static void showArray(int[] array)

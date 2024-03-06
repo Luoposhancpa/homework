@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimeNumberFactor
 {
-    internal class Program
+    internal class PrimeNumberFactor
     {
         static void Main(string[] args)
         {

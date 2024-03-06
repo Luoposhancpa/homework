@@ -35,7 +35,7 @@ namespace toeplitz
             return true;
         }
     }
-    internal class Program
+    internal class Toeplitz
     {
         public  static void stringToArray(string s)
         {

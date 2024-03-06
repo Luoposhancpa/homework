@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SieveOfEratosthenes
 {
-    internal class Program
+    internal class SieveOfEratosthenes
     {
         public static void sieveOfEratosthenes(int num)
         {
