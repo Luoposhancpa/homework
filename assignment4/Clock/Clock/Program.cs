@@ -32,13 +32,6 @@ namespace Clock
             OnAlarm();
         }
     }
-    class Boy
-    {
-        internal void Action(object sender, ElapsedEventArgs e)
-        {
-            Console.WriteLine("Jump");
-        }
-    }
 
     internal class Program
     {
